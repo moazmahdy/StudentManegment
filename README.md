@@ -1,0 +1,2 @@
+# StudentManegment
+ StudentManegment with python
